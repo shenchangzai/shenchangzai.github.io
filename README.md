@@ -13,11 +13,11 @@
 
 ### 读书笔记
 
-1. 《必读书单》[processon链接:](https://www.processon.com/view/link/64d0b2bfa433c931b2fcc9d9)
-2. 《段永平-投资逻辑篇》[processon链接:]https://www.processon.com/view/link/64d0b4ba49d48833cfeb4862
-3. 《段永平-商业逻辑》[processon链接:]https://www.processon.com/view/link/64d0b5147e49b32094c78e74
-4. 《技术领导力实战笔记》[processon链接:]https://www.processon.com/view/link/64d0b5764e9d0b766f16a812
-5. 《巴菲特致股东的信》[processon链接:]https://www.processon.com/view/link/64d0b5b3a433c931b2fcd235
+1. 《必读书单》[processon链接:https://www.processon.com/view/link/64d0b2bfa433c931b2fcc9d9](https://www.processon.com/view/link/64d0b2bfa433c931b2fcc9d9)
+2. 《段永平-投资逻辑篇》[processon链接:https://www.processon.com/view/link/64d0b4ba49d48833cfeb4862](https://www.processon.com/view/link/64d0b4ba49d48833cfeb4862)
+3. 《段永平-商业逻辑》[processon链接:https://www.processon.com/view/link/64d0b5147e49b32094c78e74](https://www.processon.com/view/link/64d0b5147e49b32094c78e74)
+4. 《技术领导力实战笔记》[processon链接:https://www.processon.com/view/link/64d0b5764e9d0b766f16a812](https://www.processon.com/view/link/64d0b5764e9d0b766f16a812)
+5. 《巴菲特致股东的信》[processon链接:https://www.processon.com/view/link/64d0b5b3a433c931b2fcd235](https://www.processon.com/view/link/64d0b5b3a433c931b2fcd235)
 6. 《有钱人和你想的不一样》[processon链接:]https://www.processon.com/view/link/638b6115e658155d1e92f667
 7. 《项目管理》[processon链接:] https://www.processon.com/view/link/64d0b62119ad082f10a6251f
 8. 《开发与架构》[processon链接:]https://www.processon.com/view/link/631ea5c91efad415fe94b236
