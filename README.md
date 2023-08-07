@@ -1,4 +1,4 @@
-## Welcome to Shenchangzai GitHub Pages
+# Welcome to Shenchangzai GitHub Pages
 
 一个31岁的老程序猿，来回顾自己的前8年。 用8年的996、努力拼搏获得了几个道理：
 
@@ -10,13 +10,15 @@
 6. 持续学习。每人学习1小时，或者复盘今日作业1小时，或拓宽阅读1小时（利用地铁上碎片时间）
 7. 坚持健身。程序猿得慢性疾病几率高，请坚持健身，良好坐姿，坚持体检。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### 读书笔记
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
+
+![image](https://github.com/shenchangzai/shenchangzai.github.io/assets/34512698/4bef9bc3-876b-41a8-bccc-36ba0aa8068c)
+
 Syntax highlighted code block
 
 # Header 1
