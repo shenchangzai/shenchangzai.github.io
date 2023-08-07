@@ -14,7 +14,7 @@
 ### 读书笔记
 
 1. 《必读书单》[链接:https://www.processon.com/view/link/64d0b2bfa433c931b2fcc9d9](https://www.processon.com/view/link/64d0b2bfa433c931b2fcc9d9)
-2. 《段永平-投资逻辑篇》链接:https://www.processon.com/view/link/64d0b4ba49d48833cfeb4862](https://www.processon.com/view/link/64d0b4ba49d48833cfeb4862)
+2. 《段永平-投资逻辑篇》[链接:https://www.processon.com/view/link/64d0b4ba49d48833cfeb4862](https://www.processon.com/view/link/64d0b4ba49d48833cfeb4862)
 3. 《段永平-商业逻辑》[链接:https://www.processon.com/view/link/64d0b5147e49b32094c78e74](https://www.processon.com/view/link/64d0b5147e49b32094c78e74)
 4. 《技术领导力实战笔记》[链接:https://www.processon.com/view/link/64d0b5764e9d0b766f16a812](https://www.processon.com/view/link/64d0b5764e9d0b766f16a812)
 5. 《巴菲特致股东的信》[链接:https://www.processon.com/view/link/64d0b5b3a433c931b2fcd235](https://www.processon.com/view/link/64d0b5b3a433c931b2fcd235)
