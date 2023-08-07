@@ -19,7 +19,7 @@
 4. 《技术领导力实战笔记》[链接:https://www.processon.com/view/link/64d0b5764e9d0b766f16a812](https://www.processon.com/view/link/64d0b5764e9d0b766f16a812)
 5. 《巴菲特致股东的信》[链接:https://www.processon.com/view/link/64d0b5b3a433c931b2fcd235](https://www.processon.com/view/link/64d0b5b3a433c931b2fcd235)
 6. 《有钱人和你想的不一样》[链接:https://www.processon.com/view/link/638b6115e658155d1e92f667](https://www.processon.com/view/link/638b6115e658155d1e92f667)
-7. 《项目管理》[链接:https://www.processon.com/view/link/64d0b62119ad082f10a6251f] (https://www.processon.com/view/link/64d0b62119ad082f10a6251f)
+7. 《项目管理》[链接:https://www.processon.com/view/link/64d0b62119ad082f10a6251f](https://www.processon.com/view/link/64d0b62119ad082f10a6251f)
 8. 《开发与架构》[链接:https://www.processon.com/view/link/631ea5c91efad415fe94b236](https://www.processon.com/view/link/631ea5c91efad415fe94b236)
 9. 《Kafka核心技术与实战》[链接:https://www.processon.com/view/link/64d0b73e484ed866e4d19a49](https://www.processon.com/view/link/64d0b73e484ed866e4d19a49)
 10. 《缓存中间件》[链接:https://www.processon.com/view/link/64d0b7ab59661d06b5036b1b](https://www.processon.com/view/link/64d0b7ab59661d06b5036b1b)
