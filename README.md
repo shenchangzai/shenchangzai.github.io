@@ -13,7 +13,7 @@
 
 ### 读书笔记
 
-1. 《必读书单》[processon链接:]https://www.processon.com/view/link/64d0b2bfa433c931b2fcc9d9
+1. 《必读书单》[processon链接:](https://www.processon.com/view/link/64d0b2bfa433c931b2fcc9d9)
 2. 《段永平-投资逻辑篇》[processon链接:]https://www.processon.com/view/link/64d0b4ba49d48833cfeb4862
 3. 《段永平-商业逻辑》[processon链接:]https://www.processon.com/view/link/64d0b5147e49b32094c78e74
 4. 《技术领导力实战笔记》[processon链接:]https://www.processon.com/view/link/64d0b5764e9d0b766f16a812
